@@ -1,0 +1,3 @@
+[submodule "upwork-backend"]
+	path = upwork-backend
+	url = git@github.com:msanje/upwork-platform-backend.git
