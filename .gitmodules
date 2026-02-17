@@ -1,3 +1,6 @@
 [submodule "upwork-backend"]
 	path = upwork-backend
 	url = git@github.com:msanje/upwork-platform-backend.git
+[submodule "hotel-management-platform"]
+	path = hotel-management-platform
+	url = git@github.com:msanje/hotel-management-platform.git
