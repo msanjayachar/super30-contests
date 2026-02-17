@@ -7,3 +7,6 @@
 [submodule "code-execution"]
 	path = code-execution
 	url = git@github.com:msanje/code-execution-backend.git
+[submodule "contest-platform-backend"]
+	path = contest-platform-backend
+	url = git@github.com:msanje/contest-platform-backend.git
