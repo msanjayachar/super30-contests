@@ -13,3 +13,6 @@
 [submodule "live-support-chat-system-backend"]
 	path = live-support-chat-system-backend
 	url = git@github.com:msanje/live-support-chat-system-backend.git
+[submodule "live-support-chat-system"]
+	path = live-support-chat-system
+	url = git@github.com:msanje/live-support-chat-system.git
