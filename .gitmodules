@@ -10,3 +10,6 @@
 [submodule "contest-platform-backend"]
 	path = contest-platform-backend
 	url = git@github.com:msanje/contest-platform-backend.git
+[submodule "live-support-chat-system-backend"]
+	path = live-support-chat-system-backend
+	url = git@github.com:msanje/live-support-chat-system-backend.git
