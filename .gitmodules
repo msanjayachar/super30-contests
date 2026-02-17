@@ -4,3 +4,6 @@
 [submodule "hotel-management-platform"]
 	path = hotel-management-platform
 	url = git@github.com:msanje/hotel-management-platform.git
+[submodule "code-execution"]
+	path = code-execution
+	url = git@github.com:msanje/code-execution-backend.git
